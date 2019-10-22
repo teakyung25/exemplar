@@ -1,0 +1,62 @@
+{
+    "nodeName": "MVHS",
+    "location": "Highlands Ranch",
+    "active": true,
+    "mentorMembers": [
+      {
+        "name": "Marry",
+        "age": 29,
+        "field": "Biology",
+        "workBio": "I graduated from xyz with a masters in Biology. I soon after got a job in a lab.",
+        "isactive": true
+      },
+      {
+        "name": "Bob",
+        "age": 39,
+        "field": "Engineering",
+        "workBio": "I graduated from xyz with a masters in engineering. I soon after got a job in a lab.",
+        "isactive": true
+      },
+      {
+        "name": "Padjen",
+        "age": 34,
+        "field": "Computer Science",
+        "workBio": "I graduated from xyz with a masters in Computer Science. I soon after got a job in a lab.",
+        "isactive": true
+      },
+      {
+        "name": "Badjen",
+        "age": 34,
+        "field": "Computer Science",
+        "workBio": "I graduated from xyz with a masters in Computer Science. I soon after got a job in a lab.",
+        "isactive": false
+      }
+    ],
+    "studentMembers": [
+        {
+          "name": "Cath Hill",
+          "age": 15,
+          "Intrest": [
+            "Biology"
+          ],
+          "isactive": true
+        },
+        {
+          "name": "Will Jobs",
+          "age": 14,
+          "Intrest": [
+            "Engineering"
+          ],
+          "isactive": true
+        },
+        {
+          "name": "Zero Ji",
+          "age": 16,
+          "Intrest": [
+            "Computer Science",
+            "Biology"
+          ],
+          "isactive": true
+        }
+    ]
+  }
